@@ -13,3 +13,11 @@ Basic Python tasks.
 # Python Core 4
 
 Python OOP tasks.
+
+# OOP Quiz
+
+Tasks from the dedicated OOP and DP course.
+
+# Linux Tasks
+
+Tasks with Bash.
