@@ -5,3 +5,11 @@ Python tasks with dictionaries, sets and tuples.
 # Python Core 2
 
 Python tasks with lists and strings.
+
+# Python Core 3
+
+Basic Python tasks.
+
+# Python Core 4
+
+Python OOP tasks.
