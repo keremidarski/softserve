@@ -19,3 +19,7 @@
 3. Calculate how much requests being made for each IP.
 
 # Task 4
+
+1. Write a bash script to check:
+
+
