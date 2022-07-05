@@ -21,5 +21,7 @@
 # Task 4
 
 1. Write a bash script to check:
+ - Number of CPU Cores
+ - Disk space
 
 
