@@ -20,8 +20,12 @@
 
 # Task 4
 
-1. Write a bash script to check:
- - Number of CPU Cores
- - Disk space
+1. Write a bash script to:
+ - check the number of CPU cores
+ - check the disk space
+ - check the size of RAM
+ - get information about the last users which were login on the host
+ - calculate the number of active python/perl process
+User should be possible to choose what exactly he wants to check.
 
 
