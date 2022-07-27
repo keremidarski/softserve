@@ -2,8 +2,9 @@
 
 A Python script that is used to connect to the PostgreSQL DB and execute queries as transactions.
 
-The logic utilizes the Singleton pattern and is designed as a DB Connections Pool - when we want to execute the query,
-we get 1 connection from the pool and after it is done it returns to the pool.
+The logic utilizes the Singleton pattern and is designed as a DB Connections Pool
+
+(when we want to execute the query, we get 1 connection from the pool and after it is done it returns to the pool)
 
 ### 1. Install the required packages
 ```
